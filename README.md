@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🚀 Building projects and experimenting with new ideas.<br>- 🧠 Strengthening my problem-solving, logical thinking, and DSA skills.<br>- 💻 Exploring new technologies and turning ideas into projects.<br>- 🌱 Learning, building, and improving every day.
+ 🚀 Building projects and experimenting with new ideas.<br>🧠 Strengthening my problem-solving, logical thinking, and DSA skills.<br> 💻 Exploring new technologies and turning ideas into projects.<br> 🌱 Learning, building, and improving every day.
 
 
 ## 🌐 Socials:

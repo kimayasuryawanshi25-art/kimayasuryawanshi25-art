@@ -1,97 +1,75 @@
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:24123A,100:7C3AED&height=180&section=header&text=Kimaya%20Suryawanshi&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
-
 <div align="center">
 
-### Hi there! I'm Kimaya 👋
+<img src="assets/profile_banner.jpg" width="100%" alt="Futuristic neon city skyline at night" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Exploring+AI%2C+Robotics+%26+Intelligent+Systems;Learning+DSA+with+C%2B%2B;Building%2C+Experimenting+%26+Improving" alt="Typing SVG" />
+<br/>
+
+# Hi, I'm Kimaya 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Exploring+AI%2C+Robotics+%26+Intelligent+Systems;Strengthening+DSA+with+C%2B%2B;Connecting+Software+and+Hardware" alt="Animated introduction" />
+
+**Computer Engineering Student | AI • Robotics • Intelligent Systems**
+
+*Building, experimenting and learning — one step at a time.*
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 💫 About Me
 
-I'm a Computer Engineering student interested in exploring the intersection of **software, hardware, and intelligent systems**.
+I'm a Computer Engineering student interested in building technology at the intersection of software, hardware, and intelligent systems.
 
-- 💻 Practising Data Structures & Algorithms using C++.
-- 🧠 Exploring Artificial Intelligence and Machine Learning fundamentals.
-- 🤖 Interested in Robotics, Embedded Systems, and intelligent technologies.
-- 🔧 Building projects that connect software with real-world applications.
-- 🌱 Learning through experimentation, problem-solving, and consistent practice.
+I enjoy understanding technical problems, exploring different approaches, and translating ideas into practical solutions.
 
-## 🛠️ Tech Stack & Tools
+- 💻 **Technical foundation:** C++, Python, Data Structures & Algorithms, and web development fundamentals.
+- 🧠 **Areas of interest:** Artificial Intelligence, Robotics, Embedded Systems, and Intelligent Technologies.
+- 🔍 **Problem-solving approach:** Research-driven thinking, logical analysis, experimentation, and continuous learning.
+- 🎯 **Career direction:** Exploring opportunities to apply engineering fundamentals to real-world technical challenges and develop practical engineering skills.
 
-**Programming Languages**
+I'm continuously strengthening my technical foundation while exploring how emerging technologies can solve meaningful problems.
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" />
-</p>
+---
 
-**Web Development**
+## 🛠️ Technologies & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts&theme=dark" />
-</p>
-
-**Tools & Platforms**
+**Programming**
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" alt="C, C++, Python" />
 </p>
 
-<sub>These represent technologies I've used or explored, not equal levels of proficiency.</sub>
+**Web development**
 
-## 🚀 Selected Projects
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts&theme=dark" alt="HTML, CSS, JavaScript, React, TypeScript" />
+</p>
 
-### Smart Workstation Assistant
-A learning project combining sensors, Arduino, and computer vision to explore productivity assistance, posture monitoring, and desk interaction.
+**Tools & platforms**
 
-**Technologies:** Arduino, C++, Python, OpenCV, MediaPipe.
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino&theme=dark" alt="Git, GitHub, VS Code, Linux, Arduino" />
+</p>
 
-[View Repository](https://github.com/kimayasuryawanshi25-art/smart_workstation)
+<sub>These are technologies I have used or explored; the list does not imply equal proficiency in each.</sub>
 
-### recHERsion
-A women's health-focused application project exploring digital health tracking, local data storage, and user-centred design.
+---
 
-**Technologies:** React, TypeScript, Vite, Tailwind CSS, IndexedDB.
+## 🌌 Currently Exploring
 
-[View Repository](https://github.com/kimayasuryawanshi25-art/recHERsion_2026)
+- 💻 Data Structures & Algorithms with C++
+- 🧠 Artificial Intelligence and Machine Learning fundamentals
+- 🐍 Python programming and practical applications
+- 🤖 Robotics and Embedded Systems
+- ⚙️ Hardware–software integration
+- 🌐 React and TypeScript
 
-### More Projects
-Explore my other experiments, learning repositories, and collaborative work through my repositories.
+---
 
-[Browse All Repositories](https://github.com/kimayasuryawanshi25-art?tab=repositories)
-
-## 📚 DSA Journey
-
-Currently strengthening my problem-solving skills through C++ and regular practice.
-
-| Practice | Progress |
-|---|---:|
-| Handwritten exercises and dry runs | 100+ |
-| LeetCode problems solved | 10 |
-
-**Current focus:** Independent problem-solving, data structures, algorithm analysis, and writing understandable code.
-
-[My GitHub Repositories](https://github.com/kimayasuryawanshi25-art?tab=repositories)
-
-<sub>Practice counts reflect my progress as of November 2026 and will be updated over time.</sub>
-
-## 🌱 Currently Exploring
-
-- Data Structures & Algorithms
-- Python and AI/ML fundamentals
-- Robotics and Embedded Systems
-- Hardware-software integration
-- Building practical engineering projects
-
+<div align="center">
 
 ### ✦ Code. Create. Experiment. Evolve. ✦
 
-*Building my skills, one problem and one project at a time.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:24123A,100:09090F&height=100&section=footer" />
+*Curious about how things work. Motivated by what they could become.*
 
 </div>

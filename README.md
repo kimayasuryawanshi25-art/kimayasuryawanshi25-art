@@ -1,13 +1,97 @@
-# 💫 About Me:
- 🚀 Building projects and experimenting with new ideas.<br>🧠 Strengthening my problem-solving, logical thinking, and DSA skills.<br> 💻 Exploring new technologies and turning ideas into projects.<br> 🌱 Learning, building, and improving every day.
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:24123A,100:7C3AED&height=180&section=header&text=Kimaya%20Suryawanshi&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
+
+<div align="center">
+
+### Hi there! I'm Kimaya 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Exploring+AI%2C+Robotics+%26+Intelligent+Systems;Learning+DSA+with+C%2B%2B;Building%2C+Experimenting+%26+Improving" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+I'm a Computer Engineering student interested in exploring the intersection of **software, hardware, and intelligent systems**.
+
+- 💻 Practising Data Structures & Algorithms using C++.
+- 🧠 Exploring Artificial Intelligence and Machine Learning fundamentals.
+- 🤖 Interested in Robotics, Embedded Systems, and intelligent technologies.
+- 🔧 Building projects that connect software with real-world applications.
+- 🌱 Learning through experimentation, problem-solving, and consistent practice.
+
+## 🛠️ Tech Stack & Tools
+
+**Programming Languages**
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" />
+</p>
+
+**Web Development**
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts&theme=dark" />
+</p>
+
+**Tools & Platforms**
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino&theme=dark" />
+</p>
+
+<sub>These represent technologies I've used or explored, not equal levels of proficiency.</sub>
+
+## 🚀 Selected Projects
+
+### Smart Workstation Assistant
+A learning project combining sensors, Arduino, and computer vision to explore productivity assistance, posture monitoring, and desk interaction.
+
+**Technologies:** Arduino, C++, Python, OpenCV, MediaPipe.
+
+[View Repository](https://github.com/kimayasuryawanshi25-art/smart_workstation)
+
+### recHERsion
+A women's health-focused application project exploring digital health tracking, local data storage, and user-centred design.
+
+**Technologies:** React, TypeScript, Vite, Tailwind CSS, IndexedDB.
+
+[View Repository](https://github.com/kimayasuryawanshi25-art/recHERsion_2026)
+
+### More Projects
+Explore my other experiments, learning repositories, and collaborative work through my repositories.
+
+[Browse All Repositories](https://github.com/kimayasuryawanshi25-art?tab=repositories)
+
+## 📚 DSA Journey
+
+Currently strengthening my problem-solving skills through C++ and regular practice.
+
+| Practice | Progress |
+|---|---:|
+| Handwritten exercises and dry runs | 100+ |
+| LeetCode problems solved | 10 |
+
+**Current focus:** Independent problem-solving, data structures, algorithm analysis, and writing understandable code.
+
+[My GitHub Repositories](https://github.com/kimayasuryawanshi25-art?tab=repositories)
+
+<sub>Practice counts reflect my progress as of November 2026 and will be updated over time.</sub>
+
+## 🌱 Currently Exploring
+
+- Data Structures & Algorithms
+- Python and AI/ML fundamentals
+- Robotics and Embedded Systems
+- Hardware-software integration
+- Building practical engineering projects
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kimaya-suryawanshi-950aba396) 
+### ✦ Code. Create. Experiment. Evolve. ✦
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kimayasuryawanshi25-art&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=kimayasuryawanshi25-art&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kimayasuryawanshi25-art&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+*Building my skills, one problem and one project at a time.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:24123A,100:09090F&height=100&section=footer" />
+
+</div>

@@ -1,81 +1,129 @@
- <div align="center">
+<!-- ===================== BANNER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0814,45:7C3AED,100:EC4899&height=220&section=header&text=Kimaya%20Suryawanshi&fontSize=44&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Computer%20Engineering%20Student%20%7C%20Builder%20%7C%20Learner&descSize=16&descAlignY=58" alt="Kimaya Suryawanshi banner" />
 
-<img src="assets/profile_banner.jpg" width="100%" alt="Futuristic neon city skyline" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F472B6&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Kimaya+%F0%9F%91%8B;Computer+Engineering+Student;Exploring+AI%2C+Robotics+%26+Intelligent+Systems;Practising+DSA+with+C%2B%2B;Building%2C+Breaking+%26+Improving" alt="Typing animation" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Kimaya+%F0%9F%91%8B;Computer+Engineering+Student;Exploring+AI+%26;Building+Beyond+Boundaries" alt="Animated introduction" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/AI-Exploring-C084FC?style=for-the-badge&labelColor=151025" />
-<img src="https://img.shields.io/badge/ROBOTICS-Learning-00D9FF?style=for-the-badge&labelColor=151025" />
-<img src="https://img.shields.io/badge/ENGINEERING-Creating-FF5ACD?style=for-the-badge&labelColor=151025" />
-
-<br/><br/>
-
-*Building, experimenting and learning — one step at a time.*
+<img src="https://img.shields.io/badge/Computer%20Engineering-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20%26%20ML-C084FC?style=for-the-badge&logo=tensorflow&logoColor=0D0814" />
+<img src="https://img.shields.io/badge/Robotics-EC4899?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA%20in%20C%2B%2B-4C1D95?style=for-the-badge&logo=cplusplus&logoColor=white" />
 
 </div>
 
 ---
 
-## 💫 About Me
+## ✨ About Me
 
-I'm a Computer Engineering student interested in building technology at the intersection of software, hardware, and intelligent systems.
+I'm a Computer Engineering student who enjoys the space where **software, hardware and intelligent systems** meet. I learn by building, and I like projects that solve real problems.
 
-I enjoy understanding technical problems, exploring different approaches, and translating ideas into practical solutions.
-
-- 💻 **Technical foundation:** C++, Python, Data Structures & Algorithms, and web development fundamentals.
-- 🧠 **Areas of interest:** Artificial Intelligence, Robotics, Embedded Systems, and Intelligent Technologies.
-- 🔍 **Problem-solving approach:** Research-driven thinking, logical analysis, experimentation, and continuous learning.
-- 🎯 **Career direction:** Exploring opportunities to apply engineering fundamentals to real-world technical challenges and develop practical engineering skills.
-
-I believe meaningful engineering begins with curiosity, grows through experimentation, and improves through consistent practice.
+- 💻 Practising Data Structures & Algorithms in C++
+- 🧠 Learning AI / ML fundamentals through hands-on projects
+- 🤖 Curious about robotics, embedded systems and computer vision
+- 🌸 Building health-tech and user-centred applications
+- 🌱 Improving a little every day through consistent practice
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-**<img src="https://img.shields.io/badge/01-Programming-C084FC?style=flat-square&labelColor=151025" />**
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" />
-</p>
+**Languages**
 
-**<img src="https://img.shields.io/badge/02-Web_Development-00D9FF?style=flat-square&labelColor=151025" />**
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts&theme=dark" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts&theme=dark" />
-</p>
+**Web**
 
-**<img src="https://img.shields.io/badge/03-Tools_&_Platforms-FF5ACD?style=flat-square&labelColor=151025" />**
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind&theme=dark" />
 
-<p>
+**Tools & Platforms**
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino&theme=dark" />
-</p>
 
-<sub>Technologies listed represent tools I have used or explored, not equal proficiency in each.</sub>
+<sub>Technologies I've used or explored, not a ranking of proficiency.</sub>
+
+</div>
 
 ---
 
-## 🌌 Currently Exploring
+## 🚀 Featured Projects
 
-- 💻 Data Structures & Algorithms with C++
-- 🧠 Artificial Intelligence and Machine Learning fundamentals
-- 🐍 Python programming and practical applications
-- 🤖 Robotics and Embedded Systems
-- ⚙️ Hardware–software integration
-- 🌐 React and TypeScript
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🖥️ Smart Workstation Assistant
+Sensors, Arduino and computer vision working together to explore posture monitoring and desk interaction.
+
+**Stack:** Arduino · C++ · Python · OpenCV · MediaPipe
+
+[🔗 View Repository](https://github.com/kimayasuryawanshi25-art/smart_workstation)
+
+</td>
+    <td width="50%" valign="top">
+
+### 🌸 recHERsion
+A women's health application exploring digital health tracking, local data storage and user-centred design.
+
+**Stack:** React · TypeScript · Vite · Tailwind CSS · IndexedDB
+
+[🔗 View Repository](https://github.com/kimayasuryawanshi25-art/recHERsion_2026)
+
+</td>
+  </tr>
+</table>
+
+<div align="center">
+
+[📂 Browse all repositories](https://github.com/kimayasuryawanshi25-art?tab=repositories)
+
+</div>
+
+---
+
+## 📈 DSA Journey
+
+| Practice | Progress |
+| --- | --- |
+| ✍️ Handwritten exercises and dry runs | 100+ |
+| 🧩 LeetCode problems solved | 10 |
+
+**Current focus:** independent problem-solving, core data structures, algorithm analysis and writing readable code.
+
+<sub>Counts as of November 2026. I'll update them as I go.</sub>
+
+---
+
+## 🌱 Currently Exploring
+
+- Data Structures & Algorithms
+- Python and AI / ML fundamentals
+- Robotics and embedded systems
+- Hardware-software integration
+- Building practical engineering projects
+
+---
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kimayasuryawanshi25-art&bg_color=0D0814&color=F0ABFC&line=C084FC&point=F472B6&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Activity" alt="Animated contribution activity graph" />
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=00D9FF&center=true&vCenter=true&width=650&lines=Code.+Create.+Experiment.+Evolve.;Curiosity+into+capability.;Ideas+into+engineering." alt="Animated closing statement" />
+### ✦ Code. Create. Experiment. Evolve. ✦
 
-<br/>
+*Building my skills, one problem and one project at a time.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:151025,50:7027A0,100:00D9FF&height=100&section=footer" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:7C3AED,100:0D0814&height=110&section=footer" alt="footer" />
 
 </div>

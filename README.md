@@ -1,83 +1,80 @@
- <div align="center">
+<!-- ===================== BANNER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0814,45:7C3AED,100:EC4899&height=220&section=header&text=Kimaya%20Suryawanshi&fontSize=44&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Computer%20Engineering%20Student%20%7C%20Builder%20%7C%20Learner&descSize=16&descAlignY=58" alt="Kimaya Suryawanshi banner" />
 
-<img src="assets/profile_banner.jpg" width="100%" alt="Futuristic neon city skyline at night" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F472B6&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Kimaya+%F0%9F%91%8B;Computer+Engineering+Student;Exploring+AI%2C+Robotics+%26+Intelligent+Systems;Building%2C+Breaking+%26+Improving" alt="Typing animation" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Kimaya+%F0%9F%91%8B;Computer+Engineering+Student;Exploring+AI+%26+Robotics;Connecting+Software+%26+Hardware" alt="Animated introduction" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/COMPUTER-ENGINEERING-00D9FF?style=for-the-badge&labelColor=120D20" />
-<img src="https://img.shields.io/badge/AI-ROBOTICS-C084FC?style=for-the-badge&labelColor=120D20" />
-<img src="https://img.shields.io/badge/INTELLIGENT-SYSTEMS-FF5ACD?style=for-the-badge&labelColor=120D20" />
-
-<br/><br/>
-
-<sub> B U I L D I N G  ·  E X P E R I M E N T I N G  ·  E V O L V I N G </sub>
+<img src="https://img.shields.io/badge/Computer%20Engineering-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20%26%20ML-C084FC?style=for-the-badge&logo=tensorflow&logoColor=0D0814" />
+<img src="https://img.shields.io/badge/Robotics-EC4899?style=for-the-badge&logo=arduino&logoColor=white" />
 
 </div>
 
 ---
 
-<h2> <img src="https://img.shields.io/badge/01-C084FC?style=flat-square&labelColor=120D20" /> ABOUT ME</h2>
+## ✨ About Me
 
-I'm a Computer Engineering student interested in building technology at the intersection of software, hardware, and intelligent systems.
+I'm a Computer Engineering student who enjoys the space where **software, hardware and intelligent systems** meet. I learn by building, and I like projects that solve real problems.
 
-I enjoy understanding technical problems, exploring different approaches, and translating ideas into practical solutions.
-
-- 💻 **TECHNICAL FOUNDATION** — C++, Python, Data Structures & Algorithms, and web development fundamentals.
-- 🧠 **AREAS OF INTEREST** — Artificial Intelligence, Robotics, Embedded Systems, and Intelligent Technologies.
-- 🔍 **PROBLEM-SOLVING APPROACH** — Research-driven thinking, logical analysis, experimentation, and continuous learning.
-- 🎯 **CAREER DIRECTION** — Exploring opportunities to apply engineering fundamentals to real-world technical challenges and develop practical engineering skills.
-
-I'm continuously strengthening my technical foundation while exploring how emerging technologies can solve meaningful problems.
+- 💻 Practising Data Structures & Algorithms in C++
+- 🧠 Learning AI / ML fundamentals through hands-on projects
+- 🤖 Curious about robotics, embedded systems and computer vision
+- 🌱 Improving a little every day through consistent practice
 
 ---
 
-<h2> <img src="https://img.shields.io/badge/02-00D9FF?style=flat-square&labelColor=120D20" /> TECHNOLOGIES & TOOLS</h2>
+## 🛠️ Tech Stack
 
-**<img src="https://img.shields.io/badge/PROGRAMMING-C084FC?style=flat-square&labelColor=120D20" />**
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" />
-</p>
+**Languages**
 
-**<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-00D9FF?style=flat-square&labelColor=120D20" />**
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts&theme=dark" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts&theme=dark" />
-</p>
+**Web**
 
-**<img src="https://img.shields.io/badge/TOOLS_&_PLATFORMS-FF5ACD?style=flat-square&labelColor=120D20" />**
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind&theme=dark" />
 
-<p>
+**Tools & Platforms**
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino&theme=dark" />
-</p>
 
-<sub>These are technologies I have used or explored; the list does not imply equal proficiency in each.</sub>
+<sub>Technologies I've used or explored, not a ranking of proficiency.</sub>
+
+</div>
 
 ---
 
-<h2> <img src="https://img.shields.io/badge/03-FF5ACD?style=flat-square&labelColor=120D20" /> CURRENTLY EXPLORING</h2>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kimayasuryawanshi25-art&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=kimayasuryawanshi25-art&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kimayasuryawanshi25-art&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-```text
-[01]  Data Structures & Algorithms     / C++
-[02]  Artificial Intelligence          / ML Fundamentals
-[03]  Python Programming                / Practical Applications
-[04]  Robotics                           / Embedded Systems
-[05]  Hardware–Software Integration
-[06]  Web Development                    / React & TypeScript
-```
+---
+
+
+## 📊 3D Contribution Activity
+
+<div align="center">
+  <img
+    src="./profile-3d-contrib/profile-purple.svg"
+    width="100%"
+    alt="3D Purple GitHub Contribution Graph"
+  />
+</div>
+
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1500&color=00D9FF&center=true&vCenter=true&width=700&lines=CODE.+CREATE.+EXPERIMENT.+EVOLVE.;CURIOUS+BY+NATURE.+ENGINEERING+BY+CHOICE.;TURNING+QUESTIONS+INTO+POSSIBILITIES." alt="Animated closing statement" />
+### ✦ Code. Create. Experiment. Evolve. ✦
 
-<br/><br/>
+*Building my skills, one problem and one project at a time.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120D20,35:7027A0,70:C084FC,100:00D9FF&height=120&section=footer" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:7C3AED,100:0D0814&height=110&section=footer" alt="footer" />
 
 </div>

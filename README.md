@@ -53,19 +53,6 @@ I'm a Computer Engineering student who enjoys the space where **software, hardwa
 ![](https://streak-stats.demolab.com/?user=kimayasuryawanshi25-art&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kimayasuryawanshi25-art&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-
-## 📊 3D Contribution Activity
-
-<div align="center">
-  <img
-    src="./profile-3d-contrib/profile-purple.svg"
-    width="100%"
-    alt="3D Purple GitHub Contribution Graph"
-  />
-</div>
-
 
 ---
 

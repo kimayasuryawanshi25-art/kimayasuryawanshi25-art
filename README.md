@@ -3,14 +3,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F472B6&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Kimaya+%F0%9F%91%8B;Computer+Engineering+Student;Exploring+AI%2C+Robotics+%26+Intelligent+Systems;Practising+DSA+with+C%2B%2B;Building%2C+Breaking+%26+Improving" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F472B6&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Kimaya+%F0%9F%91%8B;Computer+Engineering+Student;Exploring+AI%2C+Robotics+%26+Intelligent+Systems;Building%2C+Breaking+%26+Improving" alt="Typing animation" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/Computer%20Engineering-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
 <img src="https://img.shields.io/badge/AI%20%26%20ML-C084FC?style=for-the-badge&logo=tensorflow&logoColor=0D0814" />
 <img src="https://img.shields.io/badge/Robotics-EC4899?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/DSA%20in%20C%2B%2B-4C1D95?style=for-the-badge&logo=cplusplus&logoColor=white" />
 
 </div>
 
@@ -23,7 +22,6 @@ I'm a Computer Engineering student who enjoys the space where **software, hardwa
 - 💻 Practising Data Structures & Algorithms in C++
 - 🧠 Learning AI / ML fundamentals through hands-on projects
 - 🤖 Curious about robotics, embedded systems and computer vision
-- 🌸 Building health-tech and user-centred applications
 - 🌱 Improving a little every day through consistent practice
 
 ---
